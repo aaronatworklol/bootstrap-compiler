@@ -1,4 +1,4 @@
-import bsConfig  from 'gulp-bootstrap-configurator'
+import bsConfig from 'gulp-bootstrap-configurator'
 import gulp from 'gulp'
 
 const config = './config.json'
